@@ -18,20 +18,6 @@
   	<version.org.hibernate>4.2.21.Final</version.org.hibernate>
   </properties>
   
-  <repositories>
-  	<repository>
-		<id>internal</id>
-		<name>TRUPER Repository</name>
-		<url>http://172.20.3.18:9090/repository/internal/</url>
-		<releases>
-			<enabled>true</enabled>
-		</releases>
-		<snapshots>
-			<enabled>true</enabled>
-		</snapshots>
-	</repository>
-  </repositories>
-  
   <dependencies>
   	
   	<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
